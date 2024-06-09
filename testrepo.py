@@ -1,0 +1,2 @@
+def deneme():
+    print("deneme")
